@@ -124,4 +124,8 @@ footer{
     .listItems{
         text-align: center;
     }
+    .listItems li{
+        margin-top: 1%;
+        margin-bottom: 10%;
+    }
 }
