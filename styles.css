@@ -117,8 +117,11 @@ footer{
 @media (max-width:991px){
     .section-3-img{
         width: 80%;
+        align-content: center;
+        align-items: center;
+        margin-left: 10%;
+    }
+    .listItems{
         text-align: center;
-        margin-left: 6%;
-        
     }
 }
